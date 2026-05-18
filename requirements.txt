@@ -1,0 +1,8 @@
+flask==3.0.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+sendgrid==6.11.0
+scikit-learn==1.4.0
+numpy==1.26.4
+APScheduler==3.10.4
+lxml==5.1.0
